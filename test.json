@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "671d04c71f131929b88c0bc0",
+    "index": 0,
+    "guid": "5e3d9a23-634a-4ec5-bc86-2b19555b2ba4",
+    "isActive": false,
+    "balance": "$2,543.22",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "green",
+    "name": "Lakisha Hayes",
+    "gender": "female",
+    "company": "ACCUSAGE",
+    "email": "lakishahayes@accusage.com",
+    "phone": "+1 (956) 453-3967",
+    "address": "302 Krier Place, Bagtown, Florida, 9564",
+    "about": "Excepteur minim ea excepteur cupidatat sit anim nisi. Ullamco anim sint in nulla nisi sunt consectetur magna. Cillum minim irure et eu proident magna laboris occaecat et occaecat occaecat et mollit. Sunt quis sit commodo et labore ex voluptate nostrud consectetur. Est reprehenderit nulla minim quis officia irure fugiat ut id deserunt. Qui nulla officia ut tempor ex et sunt labore consequat dolor minim. Excepteur minim nostrud commodo do ea reprehenderit ex consectetur irure ea consequat ullamco ullamco magna.\r\n",
+    "registered": "2020-11-07T08:02:03 -08:00",
+    "latitude": -53.462409,
+    "longitude": -92.104023,
+    "tags": [
+      "enim",
+      "excepteur",
+      "qui",
+      "sit",
+      "elit",
+      "nostrud",
+      "ut"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Deidre Acevedo"
+      },
+      {
+        "id": 1,
+        "name": "Fernandez Browning"
+      },
+      {
+        "id": 2,
+        "name": "Britt Miller"
+      }
+    ],
+    "greeting": "Hello, Lakisha Hayes! You have 10 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
